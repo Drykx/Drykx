@@ -4,7 +4,7 @@
 
 ## Coding skills
 
-I started to code (in Python and R in September 2023):
+I started to code (in Python and R) in September 2023:
 
 ### 📚: Languages :
 
