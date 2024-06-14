@@ -1,6 +1,6 @@
 ## About me
 
-- 🔭 I’m interested in stochastic processes, reinforcement learning, machine learning, datascience and their applications to finance.
+- 🔭 I’m interested in stochastic analysis, dynamical system, reinforcement learning, machine learning, statistics and their applications to finance.
 
 ## Coding skills
 
