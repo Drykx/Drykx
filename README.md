@@ -1,6 +1,7 @@
 ## About me
 
-- 🔭 I’m interested in reinforcement learning, NLP and stochastic analysis, dynamical systems, statistics. 
+🔭 I’m passionate about Artificial Intelligence, with a particular focus on Reinforcement Learning and Natural Language Processing.
+📚 With a background in pure and applied mathematics, I have a strong foundation in probability, measure theory, functional analysis, and stochastic processes.
 
 ## Coding skills
 
