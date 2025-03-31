@@ -1,6 +1,6 @@
 ## About me
 
-🔭 I'm passionate about Artificial General Intelligence (AGI), with a focus on reinforcement learning and natural language processing. My theoretical interest lies in advancing state-of-the-art models robustness and generalizability abilities, with the goal of achieving human-like capabilities. This will ultimately deepen our understanding of the human condition—particularly in learning, reasoning, and perception.
+🔭 I'm passionate about Artificial General Intelligence (AGI), with a focus on reinforcement learning, natural language processing and Bayesian statistics. My theoretical interest lies in advancing state-of-the-art models robustness and generalizability abilities, with the goal of achieving human-like capabilities. This will ultimately deepen our understanding of the human condition—particularly in learning, reasoning, and perception.
 
 I'm also deeply interested in developing practical AI agents that assist people and contribute meaningfully to society.
 
