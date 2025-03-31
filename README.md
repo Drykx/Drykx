@@ -1,8 +1,8 @@
 ## About me
 
-🔭 I’m passionate about Artificial Intelligence, with a particular focus on Reinforcement Learning and Natural Language Processing.
+🔭 I'm passionate about Artificial General Intelligence (AGI), with a focus on reinforcement learning and natural language processing. My theoretical work centers on advancing state-of-the-art models to improve robustness and generalizability aiming to better understand the human condition, particularly in learning, reasoning, and perception. I'm also deeply interested in building practical AI agents that assist people and contribute meaningfully to society.
 
-📚 With a background in pure and applied mathematics, I have a strong foundation in probability, measure theory, functional analysis, and stochastic processes.
+📚 With a background in pure and applied mathematics, I have a strong foundation in probability, statistics, measure theory, functional analysis, and stochastic processes.
 
 ## Coding skills
 
