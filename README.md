@@ -1,42 +1,47 @@
 ## 👋 About Me
 
-I'm deeply passionate about **Artificial General**, with a particular focus on **reinforcement learning** and **natural language processing**. My theoretical interests lie in improving the **robustness** and **generalization** of state-of-the-art models, with the long-term goal of approaching **Artificial General Intelligence (AGI)**.
+I'm passionate about **Artificial General Intelligence (AGI)**, with a focus on **reinforcement learning** and **natural language processing**. My research interests center on improving the **robustness** and **generalization** of modern models as a step toward human-level reasoning.
 
-I believe that advancing AGI is not just a technical challenge, but a way to deepen our understanding of core aspects of the human condition, especially **learning**, **reasoning**, and **perception**.
+Beyond theory, I aim to build intelligent systems that **assist people meaningfully** and **benefit society**.
 
-On the practical side, I'm driven to build intelligent systems that **meaningfully assist people** and **contribute positively to society**.
+I have a strong background in **pure and applied mathematics**, particularly in:
 
-📚 I hold a strong academic background in both **pure and applied mathematics**, with expertise in:
-- Probability and statistics  
-- Measure theory and functional analysis  
+- Probability & statistics  
 - Stochastic processes  
+- Measure theory & functional analysis
 
----
 
 ## 💻 Technical Skills
 
-### 🧠 Languages
+### 🧠 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-44A833?style=flat&logo=anaconda&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=flat&logo=wix&logoColor=white)
 
-### 📦 Python Libraries
+## 🚀 Recent Projects
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### 📌 [PerceptARC](https://github.com/Drykx/PerceptARC)
+A mathematical and perceptual framework for solving the **ARC-AGI** benchmark. Proposes a classification-based approach to abstraction in LLMs, inspired by human reasoning.  
+*EPFL semester project (10 ECTS) – September 2024 to January 2025*
 
-### 🛠️ Tools
+### 📊 [Electricity Demand Forecasting](https://github.com/Drykx/Hackathon2025-ETH)
+Forecasted monthly electricity demand for thousands of consumers using **LightGBM** and custom feature engineering.  
+*Placed 4th out of 11 at the Alpiq Hackathon in Zurich – April 2025*
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🤖 [GPT2 from Scratch](https://github.com/Drykx/GPT2-Scratch)
+A personal project to understand the **internals of attention mechanisms** by implementing GPT model, inspired by Andrej Karpathy’s lectures.  
+*Personal project – March to April 2025*
+
+### 🎮 [RL Rumble](https://github.com/Drykx/RL-Rumble)
+A personal project to explore and compare key reinforcement learning algorithms, including **PPO**, **GRPO**, and **VFE**.  
+*Personal project – May 2025 to present*
+
 
