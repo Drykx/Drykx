@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm passionate about **Artificial General Intelligence (AGI)**, with a focus on **reinforcement learning** and **natural language processing**. My research interests center on improving the **robustness** and **generalization** of modern models as a step toward human-level reasoning.
+I'm passionate about **Artificial Intelligence**, with a focus on **reinforcement learning** and **natural language processing**. My research interests center on improving the **robustness** and **generalization** of modern models as a step toward human-level reasoning.
 
 Beyond theory, I aim to build intelligent systems that **assist people meaningfully** and **benefit society**.
 
