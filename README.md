@@ -34,14 +34,15 @@ A mathematical and perceptual framework for solving the **ARC-AGI** benchmark. P
 
 ### 📊 [Electricity Demand Forecasting](https://github.com/Drykx/Hackathon2025-ETH)
 Forecasted monthly electricity demand for thousands of consumers using **LightGBM** and custom feature engineering.  
-*Placed 4th out of 11 at the Alpiq Hackathon in Zurich – April 2025*
+*24 hours Hackathon (4th/11) – April 2025*
 
 ### 🤖 [GPT2 from Scratch](https://github.com/Drykx/GPT2-Scratch)
-A personal project to understand the **internals of attention mechanisms** by implementing GPT model, inspired by Andrej Karpathy’s lectures.  
+Built the full GPT-2 architecture from scratch to master the internal workings of transformers and attention mechanisms, inspired by Andrej Karpathy’s lectures.
+Fine-tuned the model on poetry, resulting in a custom AI assistant for crafting romantic verses.<br>
 *Personal project – March to April 2025*
 
 ### 🎮 [RL Rumble](https://github.com/Drykx/RL-Rumble)
-A personal project to explore and compare key reinforcement learning algorithms, including **PPO**, **GRPO**, and **VFE**.  
-*Personal project – May 2025 to present*
+Coded from scratch reinforcement learning algorithms, including **PPO**, **GRPO**, and **VFE** and benchmarked them across environments.  
+*Personal project – May 2025*
 
 
