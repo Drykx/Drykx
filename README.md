@@ -43,6 +43,6 @@ Fine-tuned the model on poetry, resulting in a custom AI assistant for crafting 
 
 ### 🎮 [RL Rumble](https://github.com/Drykx/RL-Rumble)
 Coded from scratch reinforcement learning algorithms, including **PPO**, **VFE**, and **SAC** and benchmarked them across environments.  
-*Personal project – May 2025*
+*Personal project – May to June 2025*
 
 
