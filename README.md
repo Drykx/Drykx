@@ -32,9 +32,11 @@ I have a strong background in **pure and applied mathematics**, particularly in:
 A mathematical and perceptual framework for solving the **ARC-AGI** benchmark. Proposes a classification-based approach to abstraction in LLMs, inspired by human reasoning.  
 *EPFL semester project (10 ECTS) – September 2024 to January 2025*
 
+<!--
 ### 📊 [Electricity Demand Forecasting](https://github.com/Drykx/Hackathon2025-ETH)
 Forecasted monthly electricity demand for thousands of consumers using **LightGBM** and custom feature engineering.  
 *24 hours Hackathon (4th/11) – April 2025*
+-->
 
 ### 🤖 [GPT2 from Scratch](https://github.com/Drykx/GPT2-Scratch)
 Built the full GPT-2 architecture from scratch to master the internal workings of transformers and attention mechanisms, inspired by Andrej Karpathy’s lectures.
