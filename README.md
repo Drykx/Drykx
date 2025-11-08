@@ -1,9 +1,11 @@
 ## About Me  
 
-My main fields of interest are deep learning, reinforcement learning, and natural language processing. <br/>
-I am particularly intrigued by questions of out-of-distribution generalization, Information theory, Induction, and the emergent properties of complex learning systems.
+I work on machine learning, reinforcement learning, and natural language processing. Interested in out-of-distribution generalization, information theory, and the emergence of structure in complex systems. Further insights can be found on my blog [**The Prior Problem**](https://drykx.github.io/blog).  
 
-Beyond research, I aim to design intelligent systems that **assist people meaningfully** and **contribute positively to society**.  
+Beyond research, I aim to design intelligent systems that assist people meaningfully and contribute positively to society.  
+
+Feel free to reach out at: **delineauj [at] gmail [dot] com**
+
 ## Education:
 
 - **B.Sc.** in Pure Mathematics, EPFL — *Probability & Measure Theory*  
