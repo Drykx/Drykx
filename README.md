@@ -8,8 +8,8 @@ Feel free to reach out at: **delineauj [at] gmail [dot] com**
 
 ## Education:
 
-- **B.Sc.** in Pure Mathematics, EPFL — *Probability & Measure Theory*  
-- **M.Sc. in Applied Mathematics**, *EPFL* — *Machine Learning Theory*
+- **B.Sc.** in Pure Mathematics, EPFL - *Probability & Measure Theory*  
+- **M.Sc.** in Applied Mathematics, EPFL - *Machine Learning Theory*
 
 ## Tech Stack:
 
